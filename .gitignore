@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+jobs.db
+jobs.db-wal
+jobs.db-shm
+jobs.db.bak-*
+candidate_profile.json.bak-*
+.env.bak-*
+jobs_test.db*
+candidate_profile.json
+.streamlit/*
+!.streamlit/config.toml
+
+# Operator-editable scoring lists, saved from the Scoring tab (app.py).
+scoring_overrides.json

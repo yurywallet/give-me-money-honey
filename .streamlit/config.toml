@@ -1,0 +1,7 @@
+# Theme only - matches app.py's own _BLUE accent (#2a78d6) used in the
+# custom job-card CSS, so Streamlit-native widgets (buttons, checkboxes,
+# ProgressColumn bars) don't default to Streamlit's red and clash with it.
+# Found live 2026-08-02: the Role Map tab's match-score bars rendered in
+# Streamlit's default red before this file existed.
+[theme]
+primaryColor = "#2a78d6"

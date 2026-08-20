@@ -1,0 +1,9 @@
+mcp==1.28.1
+httpx==0.28.1
+python-dotenv==1.2.2
+pytest==9.1.1
+streamlit==1.59.2
+anthropic==0.118.0
+langgraph==1.2.9
+google-genai==2.14.0
+pandas==3.0.3

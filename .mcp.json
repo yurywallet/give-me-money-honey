@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "give-me-money-honey": {
+      "command": "/absolute/path/to/give_me_money_honey/.venv/bin/python",
+      "args": ["/absolute/path/to/give_me_money_honey/server.py"]
+    }
+  }
+}
